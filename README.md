@@ -1,1 +1,1 @@
-NWL 2022 - BOLÃO DA COPA DO QUATAR
+# Uma aplicação de Bolão para apostas nos jogos da Copa do Mundo do Catar 2022
